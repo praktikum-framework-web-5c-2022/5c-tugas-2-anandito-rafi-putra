@@ -1,0 +1,4 @@
+.list-group-item:hover {
+    text-shadow: 0 0 5px rgb(240, 232, 232), 0 0 10px #fff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px;
+  }
+  
